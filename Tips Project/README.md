@@ -11,9 +11,9 @@
         <p>This project involves building a machine learning model to predict tips based on various features such as total bill, gender, and day of the week. The goal is to analyze how these features influence tipping behavior and to develop a model that can accurately predict tips.</p>
         <h2 class=" bold">🔑 Key Features</h2>
         <ul>
-            <li>🔍 **Exploratory Data Analysis (EDA)**: Thorough data exploration to identify patterns and relationships.</li>
-            <li>🛠️ **Feature Engineering**: Transformation and encoding of categorical variables to enhance model performance.</li>
-            <li>📈 **Modeling**: Implemented multiple machine learning algorithms, including:
+            <li>🔍 <bold>Exploratory Data Analysis (EDA)</bold>: Thorough data exploration to identify patterns and relationships.</li>
+            <li>🛠️ <strong>Feature Engineering</strong>: Transformation and encoding of categorical variables to enhance model performance.</li>
+            <li>📈 <strong>Modeling</strong>strong>: Implemented multiple machine learning algorithms, including:
                 <ul>
                     <li>**Linear Regression**</li>
                 </ul>
