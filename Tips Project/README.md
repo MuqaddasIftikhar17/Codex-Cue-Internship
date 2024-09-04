@@ -3,60 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-            text-align: center;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        h1 {
-            font-size: 2.5em;
-            margin-bottom: 20px;
-        }
-        h2 {
-            font-size: 2em;
-            margin-bottom: 15px;
-        }
-        h3 {
-            font-size: 1.5em;
-            margin-bottom: 10px;
-        }
-        p {
-            text-align: left;
-            margin: 10px 0;
-            font-size: 1.2em;
-            color: #555;
-        }
-        ul {
-            text-align: left;
-            margin: 10px 0;
-            font-size: 1.2em;
-            color: #555;
-            list-style-type: none;
-        }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-            color: #d63384;
-        }
-        .center {
-            text-align: center;
-        }
-        .bold {
-            font-weight: bold;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
