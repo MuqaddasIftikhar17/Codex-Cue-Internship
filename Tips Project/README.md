@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tips ML Project - README</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -76,9 +75,9 @@
         </ul>
         <h2 class="bold">🗂️ Project Structure</h2>
         <ul>
-            <li>📁 `data/` - Contains the dataset used for training and testing.</li>
-            <li>📁 `notebooks/` - Jupyter notebooks for data exploration, feature engineering, and model training.</li>
-            <li>📁 `scripts/` - Python scripts for model building, evaluation, and predictions.</li>
+            <li>📁 https://rb.gy/j5ines - Contains the dataset used for training and testing.</li>
+            <li>📁 https://rb.gy/rrd5n1 - Jupyter notebooks for data exploration, feature engineering, and model training.</li>
+            <li>📁 https://rb.gy/1ztu8m - Analysis Report.</li>
             <li>📁 `results/` - Stores performance metrics, visualizations, and final model outputs.</li>
         </ul>
         <h2 class="bold">🎯 Conclusion</h2>
