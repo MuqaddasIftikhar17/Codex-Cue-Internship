@@ -24,7 +24,6 @@
             <li>📁 https://rb.gy/j5ines - Contains the dataset used for training and testing.</li>
             <li>📁 https://rb.gy/rrd5n1 - Jupyter notebooks for data exploration, feature engineering, and model training.</li>
             <li>📁 https://rb.gy/1ztu8m - Analysis Report.</li>
-            <li>📁 `results/` - Stores performance metrics, visualizations, and final model outputs.</li>
         </ul>
         <h2 class="bold">🎯 Conclusion</h2>
         <p>The Tips ML Project demonstrates the application of machine learning to predict tipping behavior. By using feature engineering, EDA, and various modeling techniques, the project provides insights into factors influencing tips and builds an accurate predictive model.</p>
