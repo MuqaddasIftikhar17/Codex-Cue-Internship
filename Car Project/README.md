@@ -35,8 +35,8 @@
         </ul> 
         <h2 class="center bold">🗂️ Project Structure</h2>
         <ul>
-            <li>📁 [Dataset](https://shorturl.at/FgG0k) - Contains the data used for training and testing the models. 📊</li>
-            <li>📁 [Notebooks](https://shorturl.at/eT1uB) - Jupyter notebooks for EDA, feature engineering, and model training. 🧑‍💻</li>
+            <li>📁 [Notebook](https://shorturl.at/FgG0k) - Contains the data used for training and testing the models. 📊</li>
+            <li>📁 [Dataset](https://shorturl.at/eT1uB) - Jupyter notebooks for EDA, feature engineering, and model training. 🧑‍💻</li>
         </ul>
         <h2 class="bold">🎯 Conclusion</h2>
         <p>The <strong>Car Price Prediction</strong> project demonstrates the application of various machine learning models to estimate car prices. Despite achieving an accuracy of **49%**, the project provides a foundation for further refinement and optimization. The models used include Linear Regression, Random Forest Regressor, and AdaBoost Regressor. 🚗🔍</p>
