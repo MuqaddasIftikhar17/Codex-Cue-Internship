@@ -3,17 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .center {
-            text-align: center;
-        }
-        .bold {
-            font-weight: bold;
-        }
-        .container {
-            padding: 20px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
